@@ -8,7 +8,7 @@ body {
 	padding: 0 10px;
 
 }
-img {
+img ({
 	max-width:90%;
 	margin: 0px auto;
-}
+})
